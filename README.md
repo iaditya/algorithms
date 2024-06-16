@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/keon/algorithms/master/docs/source/_static/logo/logotype1blue.png"></p>
 
-Pythonic Data Structures and Algorithms
+ Pythonic Data Structures and Algorithms
 =========================================
 
 Minimal and clean example implementations of data structures and algorithms in Python 3.
